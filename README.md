@@ -8,3 +8,8 @@ Discription about run_analysis.R
 
 ##Step4. Get discriptive activity names
 
+##Result
+* w3.txt: data set merged from train & test data set
+* averageALN.txt: data set of average of each variable for each activity
+* averageSubject.txt: data set of average of each variable for each subject
+
